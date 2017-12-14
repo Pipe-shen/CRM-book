@@ -12,3 +12,7 @@
 * [待办事项](dai-ban-shi-xiang.md)
 * [销售排行榜](xiao-shou-pai-xing-bang.md)
 
+## 客户管理
+
+* [查询](ke-hu-guan-li/cha-xun.md)
+
