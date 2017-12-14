@@ -10,4 +10,5 @@
 * [柱状统计图](zhu-zhuang-tong-ji-tu.md)
 * [销售漏斗](xiao-shou-lou-dou.md)
 * [待办事项](dai-ban-shi-xiang.md)
+* [销售排行榜](xiao-shou-pai-xing-bang.md)
 
