@@ -4,7 +4,5 @@
 
 可点击“展示更多”可弹出全部销售的排行榜情况，若不点击更多时则显示钱10名销售情况。
 
-
-
-
+![](/assets/FireShot Capture 12 - 风云科技 - CRM - https___crm.fengyuntec.com_admin_index#_todo.png)
 
