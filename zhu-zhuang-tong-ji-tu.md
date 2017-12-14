@@ -4,3 +4,9 @@
 
 月度柱状图显示所选年份（如2017年）每个月份的三类金额分布情况。
 
+![](/assets/TIM截图20171214155832.png)
+
+![](/assets/FireShot Capture 7 - 风云科技 - CRM - https___crm.fengyuntec.com_admin_index#_todo.png)
+
+![](/assets/FireShot Capture 8 - 风云科技 - CRM - https___crm.fengyuntec.com_admin_index#_todo.png)
+
