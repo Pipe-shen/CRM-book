@@ -19,4 +19,5 @@
 * [修改、详情](ke-hu-guan-li/xiu-gai-3001-xiang-qing.md)
 * [审核](ke-hu-guan-li/shen-he.md)
 * [分配](ke-hu-guan-li/fen-pei.md)
+* [共享](ke-hu-guan-li/gong-xiang.md)
 
