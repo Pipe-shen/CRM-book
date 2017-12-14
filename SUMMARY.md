@@ -15,4 +15,5 @@
 ## 客户管理
 
 * [查询](ke-hu-guan-li/cha-xun.md)
+* [新增](ke-hu-guan-li/xin-zeng.md)
 
