@@ -66,3 +66,7 @@
 * [删除](hui-kuan-ji-hua/shan-chu.md)
 * [导出](hui-kuan-ji-hua/dao-chu.md)
 
+## 统计报表
+
+* [查询](tong-ji-bao-biao/tong-ji-bao-biao.md)
+
