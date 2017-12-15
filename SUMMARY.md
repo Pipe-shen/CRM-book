@@ -41,4 +41,5 @@
 ## 跟进记录
 
 * [查询](gen-jin-ji-lu/cha-xun.md)
+* [新增](gen-jin-ji-lu/xin-zeng.md)
 
