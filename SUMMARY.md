@@ -60,4 +60,5 @@
 ## 回款计划
 
 * [查询](hui-kuan-ji-hua/cha-xun.md)
+* [新增](hui-kuan-ji-hua/xin-zeng.md)
 
