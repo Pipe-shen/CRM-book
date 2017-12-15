@@ -52,4 +52,5 @@
 
 * [查询](he-tong-guan-li/cha-xun.md)
 * [新增](he-tong-guan-li/xin-zeng.md)
+* [修改、详情](he-tong-guan-li/xiu-gai-3001-xiang-qing.md)
 
