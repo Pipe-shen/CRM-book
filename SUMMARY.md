@@ -44,4 +44,5 @@
 * [新增](gen-jin-ji-lu/xin-zeng.md)
 * [修改、详情](gen-jin-ji-lu/xiu-gai-3001-xiang-qing.md)
 * [确认](gen-jin-ji-lu/que-ren.md)
+* [评论](gen-jin-ji-lu/ping-lun.md)
 
