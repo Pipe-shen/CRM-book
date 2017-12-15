@@ -27,4 +27,5 @@
 * [查询](cha-xun.md)
 * [新增](xin-zeng.md)
 * [修改、详情](xiu-gai-3001-xiang-qing.md)
+* [删除](shan-chu.md)
 
