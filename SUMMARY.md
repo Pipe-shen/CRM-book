@@ -46,4 +46,5 @@
 * [确认](gen-jin-ji-lu/que-ren.md)
 * [评论](gen-jin-ji-lu/ping-lun.md)
 * [删除](gen-jin-ji-lu/shan-chu.md)
+* [导出](gen-jin-ji-lu/dao-chu.md)
 
