@@ -45,4 +45,5 @@
 * [修改、详情](gen-jin-ji-lu/xiu-gai-3001-xiang-qing.md)
 * [确认](gen-jin-ji-lu/que-ren.md)
 * [评论](gen-jin-ji-lu/ping-lun.md)
+* [删除](gen-jin-ji-lu/shan-chu.md)
 
