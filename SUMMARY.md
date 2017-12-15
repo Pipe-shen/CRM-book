@@ -31,3 +31,8 @@
 * [删除](shan-chu.md)
 * [导出](dao-chu.md)
 
+## 项目管理
+
+* [查询](xiang-mu-guan-li/cha-xun.md)
+* [新增](xiang-mu-guan-li/xin-zeng.md)
+
