@@ -54,4 +54,5 @@
 * [新增](he-tong-guan-li/xin-zeng.md)
 * [修改、详情](he-tong-guan-li/xiu-gai-3001-xiang-qing.md)
 * [删除](he-tong-guan-li/shan-chu.md)
+* [归档](he-tong-guan-li/gui-dang.md)
 
