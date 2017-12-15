@@ -51,4 +51,5 @@
 ## 合同管理
 
 * [查询](he-tong-guan-li/cha-xun.md)
+* [新增](he-tong-guan-li/xin-zeng.md)
 
