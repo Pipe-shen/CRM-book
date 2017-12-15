@@ -61,4 +61,5 @@
 
 * [查询](hui-kuan-ji-hua/cha-xun.md)
 * [新增](hui-kuan-ji-hua/xin-zeng.md)
+* [修改、详情](hui-kuan-ji-hua/xiu-gai-3001-xiang-qing.md)
 
