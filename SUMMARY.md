@@ -48,3 +48,7 @@
 * [删除](gen-jin-ji-lu/shan-chu.md)
 * [导出](gen-jin-ji-lu/dao-chu.md)
 
+## 合同管理
+
+* [查询](he-tong-guan-li/cha-xun.md)
+
