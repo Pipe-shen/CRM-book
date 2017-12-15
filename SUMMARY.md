@@ -73,7 +73,7 @@
 
 ## 回款预测
 
-* 查询
+* [查询](/hui-kuan-yu-ce/cha-xun.md)
 
 
 
