@@ -38,3 +38,7 @@
 * [修改、详情](xiang-mu-guan-li/xiu-gai-3001-xiang-qing.md)
 * [导出](xiang-mu-guan-li/dao-chu.md)
 
+## 跟进记录
+
+* [查询](gen-jin-ji-lu/cha-xun.md)
+
